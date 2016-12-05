@@ -1,4 +1,4 @@
-# Go Tutorial Part 2
+# Go Tutorial Part 3
 # A simple web app made with Go. Uses Txt files as a Database. 
 
 ### You can add as many pages as you want using the golang templating language and also build an entire backside with text files. 
